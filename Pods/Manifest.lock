@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.4.0)
+  - SwiftEventBus (2.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - SwiftEventBus (= 2.1.2)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  SwiftEventBus: 9e8f6d8cff2826d66536ec367d17a47299478aa0
+
+PODFILE CHECKSUM: 9f2c96398ab65ad08d6251d29580fdd1fd809008
+
+COCOAPODS: 1.2.1

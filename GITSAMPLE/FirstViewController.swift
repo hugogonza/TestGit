@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import SwiftEventBus
+import Alamofire
 
 class FirstViewController: UIViewController {
 
