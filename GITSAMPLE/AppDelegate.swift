@@ -24,6 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         changedPush()
         
         testChange()
+        //test coment
         
         return true
     }
