@@ -15,6 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func testChange() {
         print("TESTING GIT CHANGES")
+        //Comentario 2 de hugo
     }
     
     
@@ -25,6 +26,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         testChange()
         //test coment
+        //comentario de Hugo
         
         return true
     }
